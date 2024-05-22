@@ -1,4 +1,14 @@
 #OLD
+Tool Run command 
+
+rm -rf OLD 
+
+git clone https://github.com/Mr-Devil-404/OLD.git 
+
+cd OLD
+
+python devil_enc.py 
+
 
 TOOL KEY : OK
 
